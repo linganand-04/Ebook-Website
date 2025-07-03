@@ -1,0 +1,56 @@
+::selection {
+  background-color: rgb(0, 0, 0);
+  color: #91a7ff;
+  // color: #00c896;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.navbar {
+  transition: all 200ms ease-in-out;
+}
+
+.navbar-sticky {
+  background-color: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(10px);
+  box-shadow: 0 12px 48px rgba(0, 0, 0, 0.2);
+}
+
+.navbar-brand img {
+  max-height: 50px;
+}
+
+.navbar .btn-outline-light:hover {
+  color: var(--bs-dark);
+}
+
+.header,
+.download {
+  background: url(../images/header-background.jpg) center center no-repeat;
+  background-size: cover;
+}
+
+.modal-dialog {
+  max-width: 1040px;
+}
+
+@media (max-width: 576px) {
+  .navbar .container,
+  .navbar-nav {
+    gap: 12px;
+  }
+}
+
+@media (max-width: 1000px) {
+  .hero .image-container {
+    display: flex;
+    justify-content: center;
+  }
+
+  .hero .text-container {
+    // Optional
+    text-align: center;
+  }
+}
