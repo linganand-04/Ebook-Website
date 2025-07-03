@@ -6,8 +6,8 @@ Designed to promote and showcase digital books effectively.
 ![Preview](https://linganand-04.github.io/Ebook-Website/assets/preview.png)
 
 > 🔗 **Live Demo:** [(https://linganand-04.github.io/Ebook-Website)
-](https://ebook-website-lian-04.vercel.app/)
----
+
+## ](https://ebook-website-lian-04.vercel.app/)
 
 ## 🚀 Features
 
@@ -25,7 +25,7 @@ Designed to promote and showcase digital books effectively.
 - **Bootstrap 5**
 - **Vanilla JavaScript**
 
---- 
+---
 
 ![Home Page](assets/screenshot1.png)
 ![Mobile View](assets/screenshot2.png)
