@@ -27,5 +27,10 @@ Designed to promote and showcase digital books effectively.
 
 ---
 
+## 💻 Desktop View
+
 ![Home Page](images/screen.png)
+
+## 📱 Mobile View
+
 ![Mobile View](images/previewMobile.png)
