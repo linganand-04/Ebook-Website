@@ -3,7 +3,7 @@
 A clean and responsive **Ebook landing page** website built with **HTML, CSS, Bootstrap**, and **JavaScript**.  
 Designed to promote and showcase digital books effectively.
 
-![Preview](https://linganand-04.github.io/Ebook-Website/images/preview.png)
+![Preview](images/preview.png)
 
 > 🔗 **Live Demo:** [(https://linganand-04.github.io/Ebook-Website)
 
