@@ -5,7 +5,11 @@ Designed to promote and showcase digital books effectively.
 
 ![Preview](images/preview.png)
 
+---
+
 > 🔗 **Live Demo:** [(https://linganand-04.github.io/Ebook-Website)
+
+---
 
 ## 🚀 Features
 
@@ -28,6 +32,8 @@ Designed to promote and showcase digital books effectively.
 ## 💻 Desktop View
 
 ![Home Page](images/screen.png)
+
+---
 
 ## 📱 Mobile View
 
