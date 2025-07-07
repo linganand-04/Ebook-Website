@@ -9,7 +9,6 @@ Designed to promote and showcase digital books effectively.
 
 > 🔗 **Live Demo:** [(https://linganand-04.github.io/Ebook-Website)
 
----
 
 ## 🚀 Features
 
@@ -35,6 +34,8 @@ Designed to promote and showcase digital books effectively.
 
 ---
 
+
 ## 📱 Mobile View
+
 
 ![Mobile View](images/previewMobile.png)
