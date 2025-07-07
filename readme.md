@@ -7,8 +7,6 @@ Designed to promote and showcase digital books effectively.
 
 > 🔗 **Live Demo:** [(https://linganand-04.github.io/Ebook-Website)
 
-## ](https://ebook-website-lian-04.vercel.app/)
-
 ## 🚀 Features
 
 - 🧭 Responsive Navigation Bar
